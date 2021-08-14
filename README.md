@@ -1,4 +1,9 @@
 ### Hi there 👋
+### Learn,Apply,Learn
+### Ask me about flutter,android
+### How to reach me
+###   LinkedIn :- https://www.linkedin.com/in/yashj6294/
+### 
 
 <!--
 **yashj6294/yashj6294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
