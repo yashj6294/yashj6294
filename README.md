@@ -1,5 +1,6 @@
 ## 💫About Me :
 🌱 I’m currently learning Android Dev
+## 
 💬 Ask me about Flutter, Android, Data Structures, and Algorithms.
 
 ## 🌐Socials
