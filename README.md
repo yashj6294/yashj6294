@@ -1,5 +1,5 @@
 ## 💫About Me :
-🌱 I’m currently learning Android Dev
+🌱 I’m currently learning Android and Flutter Dev
 ## 
 💬 Ask me about Flutter, Android, Data Structures, and Algorithms.
 
